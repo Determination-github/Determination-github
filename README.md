@@ -17,6 +17,12 @@
 
 - - -
 
+## Contect & Channel 💻
+* Email : ungseopkim@naver.com
+* Blog : https://determination.tistory.com/
+
+- - -
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Determination-github)](https://github.com/anuraghazra/github-readme-stats)
 
 
