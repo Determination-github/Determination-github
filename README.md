@@ -8,10 +8,14 @@
 1. BackEnd
    * Java
    * Git
-2. Tool
+2. FrontEnd
+   * HTML
+   * CSS
+   * Java Script
+3. Tool
    * Eclipse
    * Visual Studio Code
-3. DB
+4. DB
    * Oracle
    * Toad
 
