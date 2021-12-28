@@ -7,7 +7,6 @@
 ## Skills 👀
 1. BackEnd
    * Java
-   * Git
 2. FrontEnd
    * HTML
    * CSS
@@ -18,7 +17,9 @@
 4. DB
    * Oracle
    * Toad
-
+5. SCM
+   * Git
+   * Source Tree
 - - -
 
 ## Contect & Channel 💻
