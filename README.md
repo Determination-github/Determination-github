@@ -7,19 +7,20 @@
 ## Skills 👀
 1. BackEnd
    * Java
+   * Spring Boot, Spring MVC
+   * Junit5
+   * Gradle
+   * Intellij, Visual Studio Code
 2. FrontEnd
    * HTML
    * CSS
-   * Java Script
-3. Tool
-   * Eclipse
-   * Visual Studio Code
-4. DB
-   * Oracle
-   * Toad
-5. SCM
-   * Git
-   * Source Tree
+   * Java Script(ES6)
+3. DevOps
+   * MySQL, Oracle, Mybatis3
+   * AWS EC2, AWS CodeDeploy, AWS S3, AWS Route53, AWS RDS
+   * Git, Github, SourceTree
+   * Nginx
+   * Slack, Notion
 - - -
 
 ## Contect & Channel 💻
